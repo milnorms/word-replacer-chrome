@@ -16,5 +16,5 @@ Try the web version [here](https://milnorms.github.io/word-replacer-chrome/)
 4. Can be used on any webpage
 
 ### Help
-Ask for help, submit bugs, suggest features at [modulusdevs@gmail.com](modulusdevs@gmail.com)
+Ask for help, submit bugs, suggest features at [modulusdevs@gmail.com](mailto:modulusdevs@gmail.com?subject=[GitHub])
 
