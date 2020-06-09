@@ -10,7 +10,7 @@ Try the web version [here](https://milnorms.github.io/word-replacer-chrome/)
 ![Word replacer screenshot](https://i.imgur.com/F4RCBGa.png)
 
 ### Features
-1. Built in vanilla javascript
+1. Built with vanilla javascript
 2. Simple easy to use interface
 3. Uses toolbar pop-up
 4. Can be used on any webpage
