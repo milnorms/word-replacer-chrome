@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Replacer</title>
+
+    <style>
+        body {
+            font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+            font-size: 17px;
+        }
+
+        label{
+            background-color: rgb(249, 226, 226);
+            color: rgb(116, 32, 32);
+            border-radius: 8px;
+            padding: 5px;
+        }
+        
+        button {
+            border-radius: 20px;
+            background-color: rgb(238, 130, 130);
+            color: rgb(244, 244, 244);
+            font-size: 18px;
+        }
+
+        button:hover {
+            cursor: pointer;
+        }
+
+        input, button {
+            padding: 9px;
+            margin: 5px;
+        }
+
+
+    </style>
+</head>
+<body>
+    <h3>💬 Word Replacer</h3>
+    <form>
+        <label for="word">🌺Replace this word: </label><br>
+        <input type="text" id="word" name="word"><br><br>
+
+        <label for="replace">🌱With this: </label><br>
+        <input type="text" id="replace" name="replace"><br><br>
+
+        <label for="text">🌼In this body of text: </label><br>
+        <textarea id="text" rows="4" cols="50"></textarea><br><br>    
+
+      </form>
+      <button id="go">Go!</button>
+      <button id="reset">Reset</button>
+      
+      <div id="resultParent">
+          
+      </div>
+      <p id="noContent"></p>
+
+</body>
+<script src="word_replacer.js"></script>
+</html>
