@@ -5,7 +5,7 @@ Install the extension from the [chrome store](https://www.google.com/)
 
 **or**
 
-Try the web version [here](https://www.google.com/)
+Try the web version [here](https://milnorms.github.io/word-replacer-chrome/)
 
 ![Word replacer screenshot](https://i.imgur.com/F4RCBGa.png)
 
