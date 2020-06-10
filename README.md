@@ -1,7 +1,7 @@
 # Word Replacer Extension 💬
 Word replacer is a chrome browser extension built for replacing one word in a body of text with another. The user can also copy the new body of text to the clipboard. This works well in situations where you quickly need one word replaced in a body of text.
 
-Install the extension from the [chrome store](https://www.google.com/)
+Install the extension from the [chrome store](https://chrome.google.com/webstore/detail/hfpjfkbenhdblefkfdlccgkagcfmkadk/publish-accepted?authuser=0&hl=en)
 
 **or**
 
